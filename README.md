@@ -114,7 +114,7 @@ Next step: publishing the full repo!
 <p>
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" />
 </p>
-📧 **Email:** 82.jani@gmail.com  
+📧 **Email:** 82.jani@gmail.com
 82ب
 
 ---
