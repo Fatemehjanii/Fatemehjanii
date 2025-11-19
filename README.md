@@ -29,7 +29,6 @@ My work spans across:
 - Building scalable backend systems (Django, DRF, Flask)
 - Designing realtime web applications
 - Implementing Elasticsearch-based search systems
-- Working with Deep Learning models (WaveNet & autoregressive models)
 - Network engineering (CCNA, Network+, LPIC-1)
 - Security fundamentals (CEH, SANS 401 & 504, PortSwigger Labs)
 
