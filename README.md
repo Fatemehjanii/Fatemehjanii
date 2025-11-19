@@ -1,13 +1,12 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <strong>Fatemeh Jani</strong></h1>
-<h3 align="center">Backend Developer | Network & Security Specialist | ML Learner</h3>
+<h3 align="center">Backend Developer | Network & Security Specialist</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-REST%20API-0C4B33?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-Web%20Dev-black?logo=flask" />
   <img src="https://img.shields.io/badge/Elasticsearch-Search%20Engine-005571?logo=elasticsearch" />
-  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c?logo=pytorch&logoColor=white" />
 </p>
 
 <p align="center">
@@ -57,13 +56,6 @@ I enjoy combining **backend**, **networking**, and **security** to build systems
   <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch" />
 </p>
 
-### 🔹 **Machine Learning / Deep Learning**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Librosa-Audio%20DSP-orange" />
-</p>
-
 ### 🔹 **Networking & Security**
 <p>
   <img src="https://img.shields.io/badge/CCNA-Routing%20%26%20Switching-blue?logo=cisco" />
@@ -96,18 +88,7 @@ REST API for users, tasks, projects with clean architecture and full CRUD operat
 
 ---
 
-## 🎧 Deep Learning Work
 
-I’m currently studying **Deep Generative Models**, implementing:
-
-- WaveNet from scratch (dilated convolutions, causal layers)
-- Autoregressive sample generation
-- Custom dataset loaders (µ-law quantization)
-- Audio evaluation + sample generation
-
-Next step: publishing the full repo!
-
----
 
 ## 📫 Contact Me
 
